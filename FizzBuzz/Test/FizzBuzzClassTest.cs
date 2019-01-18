@@ -13,7 +13,6 @@ namespace Test {
             var resultadoEsperado = "Buzz";
             // Act
             var retorno = FizzBuzzClass.Resultado(numero);
-
             // Assert
             Assert.Equal(resultadoEsperado, retorno);
         }
@@ -28,7 +27,6 @@ namespace Test {
             var resultadoEsperado = "Fizz";
             // Act
             var retorno = FizzBuzzClass.Resultado(numero);
-
             // Assert
             Assert.Equal(resultadoEsperado, retorno);
         }
@@ -43,7 +41,6 @@ namespace Test {
             var resultadoEsperado = "FizzBuzz!";
             // Act
             var retorno = FizzBuzzClass.Resultado(numero);
-
             // Assert
             Assert.Equal(resultadoEsperado, retorno);
         }
@@ -58,7 +55,6 @@ namespace Test {
             var resultadoEsperado = $"{numero}";
             // Act
             var retorno = FizzBuzzClass.Resultado(numero);
-
             // Assert
             Assert.Equal(resultadoEsperado, retorno);
         }
