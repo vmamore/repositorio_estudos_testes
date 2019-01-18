@@ -1,0 +1,17 @@
+D:\Labs\.NET Core\Estudos\repositorio_estudo_testes\FizzBuzz\Test\obj\Debug\netcoreapp2.2\Test.csprojAssemblyReference.cache
+D:\Labs\.NET Core\Estudos\repositorio_estudo_testes\FizzBuzz\Test\obj\Debug\netcoreapp2.2\Test.csproj.CoreCompileInputs.cache
+D:\Labs\.NET Core\Estudos\repositorio_estudo_testes\FizzBuzz\Test\obj\Debug\netcoreapp2.2\Test.AssemblyInfoInputs.cache
+D:\Labs\.NET Core\Estudos\repositorio_estudo_testes\FizzBuzz\Test\obj\Debug\netcoreapp2.2\Test.AssemblyInfo.cs
+D:\Labs\.NET Core\Estudos\repositorio_estudo_testes\FizzBuzz\Test\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Labs\.NET Core\Estudos\repositorio_estudo_testes\FizzBuzz\Test\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+D:\Labs\.NET Core\Estudos\repositorio_estudo_testes\FizzBuzz\Test\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+D:\Labs\.NET Core\Estudos\repositorio_estudo_testes\FizzBuzz\Test\bin\Debug\netcoreapp2.2\Test.deps.json
+D:\Labs\.NET Core\Estudos\repositorio_estudo_testes\FizzBuzz\Test\bin\Debug\netcoreapp2.2\Test.runtimeconfig.json
+D:\Labs\.NET Core\Estudos\repositorio_estudo_testes\FizzBuzz\Test\bin\Debug\netcoreapp2.2\Test.runtimeconfig.dev.json
+D:\Labs\.NET Core\Estudos\repositorio_estudo_testes\FizzBuzz\Test\bin\Debug\netcoreapp2.2\Test.dll
+D:\Labs\.NET Core\Estudos\repositorio_estudo_testes\FizzBuzz\Test\bin\Debug\netcoreapp2.2\Test.pdb
+D:\Labs\.NET Core\Estudos\repositorio_estudo_testes\FizzBuzz\Test\bin\Debug\netcoreapp2.2\FizzBuzz.dll
+D:\Labs\.NET Core\Estudos\repositorio_estudo_testes\FizzBuzz\Test\bin\Debug\netcoreapp2.2\FizzBuzz.pdb
+D:\Labs\.NET Core\Estudos\repositorio_estudo_testes\FizzBuzz\Test\obj\Debug\netcoreapp2.2\Test.csproj.CopyComplete
+D:\Labs\.NET Core\Estudos\repositorio_estudo_testes\FizzBuzz\Test\obj\Debug\netcoreapp2.2\Test.dll
+D:\Labs\.NET Core\Estudos\repositorio_estudo_testes\FizzBuzz\Test\obj\Debug\netcoreapp2.2\Test.pdb
