@@ -1,0 +1,14 @@
+Problem 1.       Database
+Create a simple class - Database. It should store integers. You should set the initial integers by constructor. Store them in array. Your Database should have a functionality to add, remove and fetch all stored items. Your task is to test the class. In other words, create the class and write tests, so you are sure its methods are working as intended.
+
+Constraints
+- Storing array's capacity must be exactly 16 integers.
+  - If the size of the array is not 16 integers long, throw
+- Add operation, should add an element at the next free cell. (just like a stack)
+  - If there are 16 elements in the Database and try to add 17th throw InvalidOperationException
+- Remove operation, should support only removing an element at the last index. (just like a stack)
+  - If you try to remove element from empty Database throw InvalidOperationException
+- Constructors should take integers only, and store them in
+- Fetch method should return the elements as
+
+found at: https://github.com/RAstardzhiev/Software-University-SoftUni/tree/master/C%23%20OOP%20Advanced/Unit%20Testing%20-%20Exercises

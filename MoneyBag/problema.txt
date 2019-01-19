@@ -1,0 +1,11 @@
+- A newly created bag has nothing in it.
+- Calling the to-string method on a newly created bag produces [ ].
+- After inserting a currency with amount 0 to an empty bag, the bag is still empty.
+- Getting the amount of an arbitrary currencies on an empty bag return exactly zero.
+- After inserting a non-zero amount of a given currency to an empty bag,
+  there is only one currency type in the bag to-string works as expected
+- Getting the amount of the currency type just added returns the value just added.
+- After adding an amount of a currency already present, the number of currency types is unchanged and   getting that currency returns the new amount.
+- After adding an amount that makes an existing currency type become zero, the number of currency types   decreases by one.
+- Specifying a non-numeric value for a value raises the desired exception.
+- Specifying an unknown currency type raises the desired exception.

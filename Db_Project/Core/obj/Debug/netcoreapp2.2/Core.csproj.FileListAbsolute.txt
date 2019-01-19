@@ -1,0 +1,11 @@
+D:\Labs\.NET Core\Estudos\repositorio_estudo_testes\Db_Project\Core\bin\Debug\netcoreapp2.2\Core.deps.json
+D:\Labs\.NET Core\Estudos\repositorio_estudo_testes\Db_Project\Core\bin\Debug\netcoreapp2.2\Core.runtimeconfig.json
+D:\Labs\.NET Core\Estudos\repositorio_estudo_testes\Db_Project\Core\bin\Debug\netcoreapp2.2\Core.runtimeconfig.dev.json
+D:\Labs\.NET Core\Estudos\repositorio_estudo_testes\Db_Project\Core\bin\Debug\netcoreapp2.2\Core.dll
+D:\Labs\.NET Core\Estudos\repositorio_estudo_testes\Db_Project\Core\bin\Debug\netcoreapp2.2\Core.pdb
+D:\Labs\.NET Core\Estudos\repositorio_estudo_testes\Db_Project\Core\obj\Debug\netcoreapp2.2\Core.csprojAssemblyReference.cache
+D:\Labs\.NET Core\Estudos\repositorio_estudo_testes\Db_Project\Core\obj\Debug\netcoreapp2.2\Core.csproj.CoreCompileInputs.cache
+D:\Labs\.NET Core\Estudos\repositorio_estudo_testes\Db_Project\Core\obj\Debug\netcoreapp2.2\Core.AssemblyInfoInputs.cache
+D:\Labs\.NET Core\Estudos\repositorio_estudo_testes\Db_Project\Core\obj\Debug\netcoreapp2.2\Core.AssemblyInfo.cs
+D:\Labs\.NET Core\Estudos\repositorio_estudo_testes\Db_Project\Core\obj\Debug\netcoreapp2.2\Core.dll
+D:\Labs\.NET Core\Estudos\repositorio_estudo_testes\Db_Project\Core\obj\Debug\netcoreapp2.2\Core.pdb
