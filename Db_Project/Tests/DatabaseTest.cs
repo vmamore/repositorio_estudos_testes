@@ -20,7 +20,7 @@ namespace Tests {
         [Fact]
         public void Deve_Retornar_Excecao_Quando_Database_Estiver_Cheio() {
 
-            AdicionarNumeros(16);
+            AdicionarNumeros(15);
 
             Assert.Throws<InvalidOperationException>(() => {
                 database.Add(1);
@@ -34,6 +34,29 @@ namespace Tests {
             });
         }
 
+        [Theory]
+        [InlineData(5, 5)]
+        [InlineData(6, 6)]
+        [InlineData(6, 6)]
+        public void Fetch_Deve_Retornar_Quantidade_De_Numeros_No_Databse(int qtdNumeros, int resultadoEsperado) {
+            AdicionarNumeros(qtdNumeros);
+
+            Assert.Equal(qtdNumeros, resultadoEsperado);
+        }
+
+        [Theory]
+        [InlineData(5, 3)]
+        [InlineData(6, 1)]
+        [InlineData(6, 5)]
+        public void Fetch_Deve_Retornar_Quantidade_De_Numeros_Corretos_Depois_De_Remover_No_Databse(int qtdNumeros, int numeroDeRemocoes) {
+
+            AdicionarNumeros(qtdNumeros);
+
+            RemoverNumeros(numeroDeRemocoes);
+
+            Assert.Equal(database.Fetch().Length, qtdNumeros - numeroDeRemocoes);
+        }
+
         private void AdicionarNumeros(int count) {
             for (int i = 0; i <= count; i++) {
                 database.Add(i);
@@ -41,7 +64,7 @@ namespace Tests {
         }
 
         private void RemoverNumeros(int count) {
-            for (int i = 0; i < count; i++) {
+            for (int i = 0; i <= count; i++) {
                 database.Remove();
             }
         }
