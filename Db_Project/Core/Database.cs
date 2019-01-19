@@ -35,7 +35,10 @@ namespace Core {
         public string Fetch() {
             var dicionarioDeDados = new StringBuilder();
             for (int i = 0; i < array.Length; i++) {
-                dicionarioDeDados.AppendFormat("{0} - {1}\n", i, array[i]);
+                if (array[i] != 0)
+                    dicionarioDeDados.AppendFormat("{0} - {1}\n", i, array[i]);
+                else
+                    break;
             }
             return dicionarioDeDados.ToString();
         }
